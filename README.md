@@ -5,3 +5,5 @@
 [JavaScript](hello_js.js)
 [C](hello_c.c)
 [Ruby](hello_ruby.rb)
+
+Un colaborador hizo modificaciones
